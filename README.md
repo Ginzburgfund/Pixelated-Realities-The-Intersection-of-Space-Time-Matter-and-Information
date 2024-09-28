@@ -1,7 +1,8 @@
 # Pixelated Realities: The Intersection of Space, Time, Matter, and Information
 
 In the ever-evolving dance between the tangible and the intangible, space and time shape and reshape matter into forms both seen and unseen. This intricate relationship—the continuum of space and time, of matter and information—presents not merely a conceptual abstraction but a reality experienced and expressed through both scientific discovery and artistic interpretation. The Ginzburg Foundation’s research into the management of matter draws on the ideas of great minds like Einstein, Landau, and Niels Bohr, and is creatively inspired by the pioneering works of artists like Kandinsky, Malevich, and Antony Gormley. Together, they form a tapestry of exploration into the pixelation of physical reality, the transformability of form, and the deep interconnection between the digital and material worlds. This vision expands further with the integration of process automation and the latest technological advances: RPA, ERP, Big Data and BI, VR/AR, AI, blockchain, and smart contracts—innovations that map the bridge between the digital and the tangible.
-![Uploading 497c6d13adfb32d96b9234fed1d254f1.jpg…]()
+![497c6d13adfb32d96b9234fed1d254f1](https://github.com/user-attachments/assets/ea197f3e-696c-4d69-9e68-5da18451b35b)
+
 
 
 
@@ -39,7 +40,8 @@ As the Ginzburg Foundation delves into the management of matter, it is not only 
 Yet it is art, as exemplified by Kandinsky, Malevich, and Gormley, that allows these scientific principles to be felt, seen, and experienced. It is art that provides the metaphorical bridge between the pixelated nature of quantum mechanics and the holistic experience of human perception. In Gormley's sculptures, one sees the human body fragmented into discrete parts, yet simultaneously whole—an exploration of how the "digital" pixelation of reality can coexist with the continuous flow of experience.
 
 The incorporation of AI, RPA, ERP, and other process automation technologies into this vision creates a framework where matter is not merely transformed but managed—sculpted with intent and precision. Blockchain and smart contracts offer the tools for this management, enabling the secure transfer and reconfiguration of information, ensuring that the modular units of reality—be they digital bits or physical pixels—can be shaped and reshaped efficiently and transparently.
-![Uploading 10.png…]()
+![10](https://github.com/user-attachments/assets/4c16d788-fc89-406c-b876-415cb6e3e565)
+
 
 ## A Future of Infinite Form and Function
 
